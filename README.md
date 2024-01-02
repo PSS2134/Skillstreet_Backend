@@ -30,5 +30,4 @@ npm start
 npm run test
 ```
 
-<h2>API Documentation Link </h2> 
-<h4><https://drive.google.com/file/d/1WQBjOdNnERiwksvVksCLwN_OtoqdZsXL/view?usp=sharing </h4>
+[API Documentation Link](https://drive.google.com/file/d/1WQBjOdNnERiwksvVksCLwN_OtoqdZsXL/view?usp=sharing)
